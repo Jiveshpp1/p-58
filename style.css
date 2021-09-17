@@ -1,0 +1,26 @@
+.game{
+    width: 15%;
+}
+
+
+body{
+  text-align:center;
+   
+}
+
+.sec1{
+ background: linear-gradient(#60ebeb 0%, #27ae60 100%); 
+  
+}
+
+#my{
+    width: 15%;
+    border-radius:45 px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
